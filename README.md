@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+I am Soutrik Bandyopadhyay, a Ph.D student at [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/)
+
+- 😄 Pronouns: He/Him/His
+- 
 
 <!--
 **SoutrikBandyopadhyay/SoutrikBandyopadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
